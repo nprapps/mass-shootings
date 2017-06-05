@@ -37,5 +37,5 @@ The homepage of the notebook should open automatically in your preferred browser
 Data sources
 ---------------
 
-* [Everytown Mass shooting Analysis](https://everytownresearch.org/reports/mass-shootings-analysis/)
+* [Everytown Mass Shooting Analysis](https://everytownresearch.org/reports/mass-shootings-analysis/)
 * [Everytown Mass Shooting Appendix](https://everytownresearch.org/documents/2017/03/appendix-mass-shootings-united-states-2009-2016.pdf)
